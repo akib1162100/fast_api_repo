@@ -1,0 +1,1 @@
+from .agrim_model import AgrimInfo
